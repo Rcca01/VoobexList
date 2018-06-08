@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "342737900201",
+    "firebase_url": "https://todolist-5ef84.firebaseio.com",
+    "project_id": "todolist-5ef84",
+    "storage_bucket": "todolist-5ef84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342737900201:android:108b289950dbc01a",
+        "android_client_info": {
+          "package_name": "br.com.voobex.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342737900201-ea3o2ki4nn5i63ct7fmrffqpaggblh5c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "342737900201-ea3o2ki4nn5i63ct7fmrffqpaggblh5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEsylyhQxMEwKO3UnrojJgm-BXBGbV5SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

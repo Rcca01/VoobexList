@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Voobex List</string>
+    <string name="action_settings">Configurações</string>
+
+    <string-array name="priority_levels">
+        <item>Baixa Prioridade</item>
+        <item>Prioridade Normal</item>
+        <item>Alta Prioridade</item>
+    </string-array>
+
+    <!--buttons -->
+    <string name="btnSingIn">Entrar</string>
+    <string name="btnSingOut">Logout</string>
+    <string name="btnForgot">Esqueceu sua senha?</string>
+    <string name="singAccount">Criar Conta</string>
+
+    <string name="toReset">Para redefinir a senha, digite seu e-mail, pressione o botão e verifique o e-mail para seguir as instruções.</string>
+    <string name="yourEmail">Seu email aqui!</string>
+    <string name="resetPass">Resetar Senha</string>
+
+    <!-- LoginPage -->
+    <string name="create">Criar Conta:</string>
+    <string name="createAccount">Criar Conta: Success!</string>
+    <string name="createFail">Criar Conta: Fail!</string>
+    <string name="authFail">Falha na autenticação!</string>
+    <string name="signInSuccess">Login: Correto!</string>
+    <string name="signInFail">Login: Falha ao efetuar login!</string>
+    <string name="verifyEmail">E-mail de verificação enviado </string>
+    <string name="verifyEmailFail">Email não encontrado!</string>
+    <string name="sendEmailFail">Falha ao enviar email.</string>
+    <string name="enterEmail">Digite seu email!</string>
+    <string name="enterPassword">Digite sua senha!</string>
+    <string name="minPassword">Senha muito curta, insira no mínimo 6 caracteres!</string>
+    <string name="checkEmail">Verifique sua caixa de entrada!</string>
+    <string name="sendFailEmailReset">Falha ao enviar email de recuperação!</string>
+
+    <string name="cancelCreateTask">Tarefa não adicionada!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="about">Sobre</string>
+    <string name="back">Voltar</string>
+    <string name="google_maps_key">AIzaSyCdhTTyxVR1TQ381cEJ8yjwy15KydEBU7Y</string>
+    <string name="error_end_encontrado">Erro</string>
+    <string name="map">Mapa</string>
+
+    <string name="hello_blank_fragment">Olá fragment</string>
+
+    <string name="current_task">Vigente</string>
+    <string name="done_task">Feito</string>
+
+    <string name="dialog_editing_title">Editar tarefa</string>
+
+    <string name="dialog_title">Adicionar tarefa</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_error_emrty_title">Por Favor, insira o titulo.</string>
+
+    <string name="dialog_removing_message">Você realmente quer apagar está tarefa?</string>
+    <string name="removed">Removido</string>
+
+    <string name="task_title">Título</string>
+    <string name="task_date">Data</string>
+    <string name="task_time">Hora</string>
+
+    <string name="separator_overdue">Atrasado</string>
+    <string name="separator_today">Hoje</string>
+    <string name="separator_tomorrow">Amanhã</string>
+    <string name="separator_future">Futuro</string>
+</resources>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Voobex List</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="priority_levels">
+        <item>Low Priority</item>
+        <item>Normal priority</item>
+        <item>High priority</item>
+    </string-array>
+
+
+    <!--buttons -->
+    <string name="btnSingIn">SignIn</string>
+    <string name="btnSingOut">SignOut</string>
+    <string name="btnForgot">Forgot your password?</string>
+    <string name="singAccount">Create Account</string>
+
+    <string name="toReset">To reset password, enter your email, press the button and check mail to follow instruction.</string>
+    <string name="yourEmail">Your email here</string>
+    <string name="resetPass">Reset Password</string>
+
+    <!-- LoginPage -->
+    <string name="create">Create Account:</string>
+    <string name="createAccount">Create Account: Success!</string>
+    <string name="createFail">Create Account: Fail!</string>
+    <string name="authFail">Authentication failed!</string>
+    <string name="signInSuccess">signIn: Success!</string>
+    <string name="signInFail">signIn: Fail!</string>
+    <string name="verifyEmail">Verification email sent </string>
+    <string name="verifyEmailFail">Send Email Verification failed!</string>
+    <string name="sendEmailFail">Failed to send verification email.</string>
+    <string name="enterEmail">Enter email address!</string>
+    <string name="enterPassword">Enter password!</string>
+    <string name="minPassword">Password too short, enter minimum 6 characters!</string>
+    <string name="checkEmail">Check email to reset your password!</string>
+    <string name="sendFailEmailReset">Fail to send reset password email!</string>
+
+    <string name="cancelCreateTask">Task adding cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="about">About</string>
+    <string name="back">Back</string>
+    <string name="google_maps_key">AIzaSyCdhTTyxVR1TQ381cEJ8yjwy15KydEBU7Y</string>
+    <string name="error_end_encontrado">Error</string>
+    <string name="map">Mapa</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="current_task">Current</string>
+    <string name="done_task">Done</string>
+
+    <string name="dialog_editing_title">Editing task</string>
+
+    <string name="dialog_title">Adding task</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_error_emrty_title">Please, enter the title.</string>
+
+    <string name="dialog_removing_message">Are you want to delete this task?</string>
+    <string name="removed">Removed</string>
+
+    <string name="task_title">Title</string>
+    <string name="task_date">Date</string>
+    <string name="task_time">Time</string>
+
+    <string name="separator_overdue">Overdue</string>
+    <string name="separator_today">Today</string>
+    <string name="separator_tomorrow">Tomorrow</string>
+    <string name="separator_future">Future</string>
+
+</resources>
