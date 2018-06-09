@@ -9,8 +9,8 @@
     tools:context="br.com.voobex.todolist.about.AboutActivity">
 
     <ImageView
-        android:layout_height="200dp"
-        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_width="100dp"
         android:layout_gravity="center_horizontal"
         android:src="@drawable/splashreminder" />
 
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginTop="16sp"
-        android:text="V 1.0 "
+        android:text="v 1.0.0"
         android:textSize="20sp"/>
 
 </LinearLayout>
